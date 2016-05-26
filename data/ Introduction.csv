@@ -1,29 +1,29 @@
-European Data Science Academy Dataset Register,
-,
-"This database contains metadata relating to the datasets used and generated within the EDSA project. The database acts as a catalog providing background information on each dataset, their method of collection and, where published, how to access them",
-,
-The EDSA data management plan can be found at:,
-http://edsa-project.eu/edsa-data/uploads/2015/02/EDSA-2015-P-D55-FINAL.pdf,
-,
-Table of Contents,
-Introduction,Metadata
-Viewing options,Download and viewing options for the dataset
-V1.2 - DMP M12,The dataset register
-DMP Field Description,A list of the fields used to construct the register
-DMP Code Lists,Codes and abbreviations used in specific fields
-,
-,
-Licence,
-The entirety of this work is licenced under a Creative Commons - Attribution 4.0 (CC BY 4.0),
-,
-Certificate,
-This work has an Open Data Certificate,
-,
-Contact ,
-"If you have any questions, suggestions or comments, please don't hesitate to email us at: training@theodi.org",
-,
-Published,
-TODO,
-,
-Please cite as,
-TODO,
+Category,Field,Description
+Dataset Reference and Name,Work Package,Work package in which the dataset was used or produced
+Dataset Reference and Name,Organisation,Organisation responsible for collecting or using the data
+Dataset Reference and Name,Dataset Title,Title of the dataset
+Dataset Reference and Name,Dataset Identifier,Unique identifier for the dataset
+Dataset Reference and Name,"Status - November 2015 (ongoing, in progress, due date)",
+Dataset Reference and Name,New entry to data management plan? Yes/No,
+Data set description 				,Generated or collected,Whether the dataset was Collected (e.g. by harvesting) or Generated (e.g. by analysing another dataset)
+Data set description 				,Origin (if collected),Name of service or other data sources
+Data set description 				,Scale,Description of size and content of dataset
+Data set description 				,Who is this useful for?,
+Data set description 				,Similar existing dataset and possibility for integration? Value of this new dataset?,
+Standards		,What standards and methodologies will be utilised for data collection and management?,
+Standards		,"Outline the metadata, documentation or other supporting material that should accompany the data for it to be interpreted correctly",
+Standards		,"Status and location of metadata, documentation or other supporting material",
+Data sharing,"Licensing, data protection, ownership and copyright","Notes on the copyright, rights and ownership of the dataset"
+Data sharing,Can the data be published under an open licence?,"Indicates whether the data can be openly published (Yes, No, Maybe)"
+Data sharing,Reasons why the data cannot be shared,Description of why a dataset cannot or might not be suitable for openly published
+Data sharing,"How will the data be shared? (including access procedures, dissemination, software/tools needed for enabling reuse ",Notes on how the data might be shared with others
+Data sharing,Which repository will be used for the data? Why this respository?,"The platform or repository used to host the data, and why it was selected"
+Data sharing,Is it ready to be published?,"Indicates whether the data is ready for publication (Yes, No, N/A if not suitable for publishing)"
+Data sharing,Current location of dataset,"The current location of the data, e.g. the name of a platform or service"
+Data sharing,Dataset Link,"This should be a link to the actual, downloadable dataset for any openly published data. N/A if data cannot be published"
+Data sharing,Licence,The licence applies to any openly published data. N/A if data cannot be openly published
+Archiving and preservation ,How long should the data be preserved? How will it exceed the length of the project if necessary?,
+Archiving and preservation ,Approx end volume,
+Archiving and preservation ,Who is responsible in your organisation for the data managament and curation?,
+Archiving and preservation ,Quality assurance and back up procedures?,
+Archiving and preservation ,Associated costs and how these will be covered - do you need to purchase storage? How much time will it take for a person to manage the data - how will this be covered?,
